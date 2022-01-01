@@ -400,6 +400,26 @@
                             "key_code": "right_command"
                         }
                     ]
+                },
+                {
+                    "from": {
+                        "key_code": "home"
+                    },
+                    "to": [
+                        {
+                            "key_code": "return_or_enter"
+                        }
+                    ]
+                },
+                {
+                    "from": {
+                        "key_code": "page_up"
+                    },
+                    "to": [
+                        {
+                            "key_code": "delete_or_backspace"
+                        }
+                    ]
                 }
             ],
             "virtual_hid_keyboard": {
